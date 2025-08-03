@@ -1,0 +1,15 @@
+
+				 Technoproperty
+	Address: Kamalpokhari, Kathmandu Metropolitan
+Contact no: 98435435556  Email: technorental@gmail.com
+
+Date: 2025-08-03 13:28:01
+Name of the customer: Salina
+Phone of the customer: 988
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		 Kitta No.	Aana	Month	Price per month	Total price
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			102			5		8		60000			480000
+
+Total Price: 480000
+Thank you for using TechnoRental services
