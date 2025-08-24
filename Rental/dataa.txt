@@ -1,0 +1,8 @@
+101 ,Kathmandu  ,North  ,4  ,50000    ,Available
+102 ,Pokhara    ,East   ,5  ,60000    ,Not Available
+103 ,Lalitpur   ,South  ,10 ,100000   ,Not-Available
+104 ,Dhading    ,West   ,4  ,40000    ,Available
+105 ,Bhaktapur  ,East   ,8  ,100000   ,Not-Available
+106 ,Sindhuli   ,South  ,6  ,80000    ,Available
+107 ,Chitwan    ,East   ,10 ,1060000  ,Not-Available
+108 ,Banepa     ,North  ,4  ,50000    ,Available
